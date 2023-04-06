@@ -53,7 +53,9 @@ def main():
 
     if service == "facebook":
 
-        fb_name = raw_input(O + "Please Enter The NAME Of The Facebook Account : " + W)
+        fb_name = raw_input(O + "Please Enter The Baha Adai 
+        Of The Facebook Account : " + W)
+        
 
         os.system("clear")
 
