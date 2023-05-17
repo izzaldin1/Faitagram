@@ -261,3 +261,4 @@ if __name__ == '__main__':
 
         exit(1) 
         python setup.py
+        “chmod +x faitagram && chmod +x setup.py’’
